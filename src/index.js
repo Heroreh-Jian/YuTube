@@ -7,7 +7,7 @@ import VideoDetails from "./components/video_detail";
 import YouTubeSearch from "youtube-api-search";
 import Icon from "./icon.png"
 
-const YT_API_KEY = "AIzaSyCvXBNxvqbrD4zdXikD1ppI8uuZvhKD1qM";
+const YT_API_KEY = "youtube-api-search";
 
 class App extends Component{
   constructor(props){
